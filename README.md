@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deployed Firebase Link: https://react-todo-2cd90.web.app/
 
 ## Available Scripts
 
